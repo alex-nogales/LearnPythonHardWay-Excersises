@@ -1,2 +1,2 @@
 # LearnPythonHardWay-Excersises
-Excercises from the book by Zen
+Excercises from the book by Zen.
